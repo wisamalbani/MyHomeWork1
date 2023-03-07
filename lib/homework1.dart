@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-//txt
 class Homework1 extends StatefulWidget {
   const Homework1({super.key});
 
@@ -25,7 +24,7 @@ class _Homework1State extends State<Homework1> {
           children: [
             Center(
               child:
-                  //2الاسم والنسبة
+                  //الاسم والنسبة
                   Container(
                 width: 300,
                 height: 50,
