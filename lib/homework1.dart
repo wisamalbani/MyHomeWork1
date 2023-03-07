@@ -137,7 +137,7 @@ class _Homework1State extends State<Homework1> {
                     ),
                   ),
                 ),
-                //2تاريخ الولادة
+                //تاريخ الولادة
                 Container(
                   width: 175,
                   height: 50,
